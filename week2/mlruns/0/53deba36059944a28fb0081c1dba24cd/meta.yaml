@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tosin/Desktop/MLOPS%20Zoomcamp/week2/mlruns/0/53deba36059944a28fb0081c1dba24cd/artifacts
+end_time: 1653999899353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 53deba36059944a28fb0081c1dba24cd
+run_uuid: 53deba36059944a28fb0081c1dba24cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653999883820
+status: 3
+tags: []
+user_id: tosin
